@@ -1,0 +1,85 @@
+
+body{
+background-image: url("./aerial-view-city-sunset.jpg");
+height: auto;
+width: auto;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.face-1-navbar{
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    max-width: auto;
+
+    justify-content: space-between;
+   
+
+}
+.face-1-navbar-right {
+
+    display: inline-flex;
+    
+    flex: 1;
+   
+    
+
+}
+
+.face-1-navbar-left  {
+
+    padding-left: 20px;
+    flex: 3;
+ 
+   
+    
+
+}
+
+.face-1-navbar-right-text-1{
+
+  
+    flex:1;
+  
+   
+}
+.face-1-navbar-right-text-2{
+
+
+   
+    flex:1;
+   
+   
+   
+  
+}
+.face-1-navbar-right-text-3{
+
+
+    flex:1;
+  
+   
+}
+.face-1-navbar-right-text-4{
+
+
+
+    flex:1;
+   
+}
+
+a{
+
+    color:white;
+}
+
+a:hover{
+    color: red;
+}
+
+
+
+a:active{
+    color: yellow;
+}
