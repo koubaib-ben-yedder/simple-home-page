@@ -1,2 +1,1 @@
-# simple_css
-simple template 
+# home-page
